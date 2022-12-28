@@ -1,5 +1,5 @@
 # Time-Series-Forecasting-Apple-Stock-Price
-This project was created to analyize and forecast the stock price for product Apple using AR, MA, ARIMA and Second order exponential smoothing.  
+This project was created to analyse and forecast the stock price for product Apple using AR, MA, ARIMA and Second order exponential smoothing.  
 
 Step 1: 
 In this project we are extracting the data from yahoo finance and using closing price for forecasting the Apple stock.
